@@ -11,7 +11,7 @@ A passionate student of high school situated on Earth. I love programming, astro
 
  **Languages**
  
- <img alt="Python" width="30px" src="/assets/pythonlogo.pwebp"/>|<img alt="HTML" width="30px" src="/ssets/htmllogo.webp"/>|<img alt="CSS" width="30px" src="/assets/csslogo.webp"/>|<img alt="Javascript" width="30px" src="/assets/jslogo.webp"/>|<img alt="PHP" width="30px" src="/assets/phplogo.webp"/>|<img alt="Ruby" width="30px" src="/assets/rubylogo.webp"/>|<img alt="Scratch" width="30px" src="/assets/scratchlogo.webp"/>
+ <img alt="Python" width="30px" src="/assets/pythonlogo.webp"/>|<img alt="HTML" width="30px" src="/assets/htmllogo.webp"/>|<img alt="CSS" width="30px" src="/assets/csslogo.webp"/>|<img alt="Javascript" width="30px" src="/assets/jslogo.webp"/>|<img alt="PHP" width="30px" src="/assets/phplogo.webp"/>|<img alt="Ruby" width="30px" src="/assets/rubylogo.webp"/>|<img alt="Scratch" width="30px" src="/assets/scratchlogo.webp"/>
  |--|--|--|--|--|--|--|
  
  **Frameworks**
@@ -21,8 +21,8 @@ A passionate student of high school situated on Earth. I love programming, astro
  
  **Tools**
  
- <img alt="Linux" width="30px" src="/assets/linuxlogo.webp"/>|<img alt="Ubuntu" width="30px" src="/assets/ubuntulogo.webp"/>|<img alt="Debian" width="30px" src="/assets/debianlogo.webp"/>|<img alt="Kalilinux" width="30px" src="/assets/kalilinuxlogo.png"/>|<img alt="Windows" width="30px" src="/assets/windowslogo.webp"/><img alt="MacOS" width="30px" src="/assets/macoslogo.webp"/>
- |--|--|--|--|--|
+ <img alt="Linux" width="30px" src="/assets/linuxlogo.webp"/>|<img alt="Ubuntu" width="30px" src="/assets/ubuntulogo.webp"/>|<img alt="Debian" width="30px" src="/assets/debianlogo.webp"/>|<img alt="Kalilinux" width="30px" src="/assets/kalilinuxlogo.webp"/>|<img alt="Windows" width="30px" src="/assets/windowslogo.webp"/>|<img alt="MacOS" width="30px" src="/assets/macoslogo.webp"/>
+ |--|--|--|--|--|--|
 
  **About Me**
 ---
